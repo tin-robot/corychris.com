@@ -5,6 +5,7 @@ import routify from "@roxi/routify/vite-plugin";
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: `/`, // <- This is the fix
   plugins: [
     tailwindcss(),
     routify({
