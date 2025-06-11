@@ -9,7 +9,7 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     routify({
-      /* config */
+      restoreScrollState: true,
     }),
     svelte(),
   ],
