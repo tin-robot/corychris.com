@@ -1,0 +1,7 @@
+/
+/about
+/blog
+/blog/index
+/experience
+/index
+/projects
