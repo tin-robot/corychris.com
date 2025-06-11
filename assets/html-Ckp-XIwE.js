@@ -1,1 +1,0 @@
-import{u as i,v as o,w as d,x as h,y as l,z as m}from"./index-BFjOpPoL.js";function g(t,n,c,v,_){var f=t,a="",e;i(()=>{a!==(a=n()??"")&&(e!==void 0&&(d(e),e=void 0),a!==""&&(e=o(()=>{var s=a+"",r=h(s);l(m(r),r.lastChild),f.before(r)})))})}export{g as h};

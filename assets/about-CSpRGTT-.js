@@ -1,4 +1,4 @@
-import{p as d,i as p,t as m,h as u,e as a,b as h,c as g,g as r}from"./index-BFjOpPoL.js";import{M as f}from"./MetaTags-Cf4CRbGT.js";var b=m(`<!> <section class="max-w-2xl mx-auto px-4"><h1 class="text-4xl mb-6">About Me</h1> <div class="px-4"><p class="mb-4"></p> <p class="mb-4">My career has spanned government, nonprofits, and mission-driven startups.
+import{p as d,i as p,t as m,h as u,e as a,b as h,c as g,g as r}from"./index-BjupUAFU.js";import{M as f}from"./MetaTags-DiGhpb5G.js";var b=m(`<!> <section class="max-w-2xl mx-auto px-4"><h1 class="text-4xl mb-6">About Me</h1> <div class="px-4"><p class="mb-4"></p> <p class="mb-4">My career has spanned government, nonprofits, and mission-driven startups.
       I've led cross-functional teams, modernized outdated systems, and
       developed full-stack applications that solve real-world problems. Whether
       I'm improving internal workflows or launching new platforms, I always
