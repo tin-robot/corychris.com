@@ -11,7 +11,7 @@
     "format": "prettier --write .",
     "typegen": "pocketbase-typegen --env --out src/pocketbase-types.ts",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist/client"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@skeletonlabs/skeleton": "^3.1.2",
