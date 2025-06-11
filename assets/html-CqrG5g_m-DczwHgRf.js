@@ -1,1 +1,0 @@
-import{J as i,O as d,m as f,Y as m,d as c,T as l}from"./index-DjsnoBaY.js";function T(e,r,n,p,J){var t=e,a="",o;i(()=>{a!==(a=r()??"")&&(o!==void 0&&(l(o),o=void 0),a!==""&&(o=d(()=>{var v=a+"",s=f(v);m(c(s),s.lastChild),t.before(s)})))})}export{T as g};

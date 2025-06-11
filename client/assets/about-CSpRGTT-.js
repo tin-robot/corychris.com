@@ -1,4 +1,4 @@
-import{R as d,D as p,U as m,a as u,u as t,B as s,F as h,x as f}from"./index-DjsnoBaY.js";import{Y as g}from"./MetaTags-DiGhpb5G-DNs7e65x.js";var b=m(`<!> <section class="max-w-2xl mx-auto px-4"><h1 class="text-4xl mb-6">About Me</h1> <div class="px-4"><p class="mb-4"></p> <p class="mb-4">My career has spanned government, nonprofits, and mission-driven startups.
+import{p as d,i as p,t as m,h as u,e as a,b as h,c as g,g as r}from"./index-BjupUAFU.js";import{M as f}from"./MetaTags-DiGhpb5G.js";var b=m(`<!> <section class="max-w-2xl mx-auto px-4"><h1 class="text-4xl mb-6">About Me</h1> <div class="px-4"><p class="mb-4"></p> <p class="mb-4">My career has spanned government, nonprofits, and mission-driven startups.
       I've led cross-functional teams, modernized outdated systems, and
       developed full-stack applications that solve real-world problems. Whether
       I'm improving internal workflows or launching new platforms, I always
@@ -13,12 +13,12 @@ import{R as d,D as p,U as m,a as u,u as t,B as s,F as h,x as f}from"./index-Djsn
       corporations.</p> <p class="mb-4">My technical stack includes Python, Node.js, TypeScript, Dart, and modern
       cloud infrastructure on AWS and GCP. I care deeply about clean code,
       thoughtful UX, and mentorship, because building good software means
-      building up the people behind it.</p></div></section>`,1);function w(r,n){d(n,!1);const e=new Date().getFullYear()-2010;p();var o=b(),a=u(o);g(a,{title:"About Me - Cory Chris",description:`I'm Cory Chris, a technology leader and founder with ${e??""} years
+      building up the people behind it.</p></div></section>`,1);function x(s,n){d(n,!1);const e=new Date().getFullYear()-2010;p();var o=b(),t=u(o);f(t,{title:"About Me - Cory Chris",description:`I'm Cory Chris, a technology leader and founder with ${e??""} years
       of experience creating real-world impact through software. I lead teams, scale
       platforms, and spearhead projects that make life better, from modernizing government
       systems to building Open Source tools and developing ethical AI for social
-      good.`});var i=t(a,2),l=t(s(i),2),c=s(l);c.textContent=`I'm Cory Chris, a technology leader and founder with ${e??""} years
+      good.`});var i=r(t,2),l=r(a(i),2),c=a(l);c.textContent=`I'm Cory Chris, a technology leader and founder with ${e??""} years
       of experience creating real-world impact through software. I lead teams, scale
       platforms, and spearhead projects that make life better, from modernizing government
       systems to building Open Source tools and developing ethical AI for social
-      good.`,h(r,o),f()}export{w as default};
+      good.`,h(s,o),g()}export{x as default};
