@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import routify from "@roxi/routify/vite-plugin"; // Optional, remove if unused
 
 export default defineConfig({
-  base: "/corychris.com/",
+  base: "/",
   build: {
     outDir: "dist",
     emptyOutDir: true,
