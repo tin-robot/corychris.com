@@ -2,10 +2,10 @@ import { mount } from "svelte";
 import "./app.css";
 import App from "./App.svelte";
 
-if (sessionStorage.redirect) {
-  const redirectUrl = sessionStorage.redirect;
-  delete sessionStorage.redirect;
-  history.replaceState(null, "", redirectUrl);
+const redirectTo = sessionStorage.getItem("redirectTo");
+if (redirectTo) {
+  sessionStorage.removeItem("redirectTo");
+  history.replaceState(null, "", redirectTo);
 }
 
 const app = mount(App, {
